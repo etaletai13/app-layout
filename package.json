@@ -2,7 +2,7 @@
   "name": "@polymer/app-layout",
   "private": true,
   "description": "A set of layout elements for your app",
-  "version": "2.0.0"
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/etaletai13/app-layout"
