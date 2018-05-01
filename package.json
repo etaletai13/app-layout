@@ -2,9 +2,10 @@
   "name": "@polymer/app-layout",
   "private": true,
   "description": "A set of layout elements for your app",
+  "version": "2.0.0"
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/app-layout"
+    "url": "git://github.com/etaletai13/app-layout"
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
@@ -14,6 +15,6 @@
   },
   "scripts": {
     "update-types": "bower install && gen-typescript-declarations --deleteExisting --outDir .",
-    "format": "webmat && npm run update-types"
+    "format": "webmat && yarn update-types"
   }
 }
